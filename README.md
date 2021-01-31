@@ -1,3 +1,5 @@
-# Estudo-em-Lua
+### 🌏・Uma simples calculadora dinamica feita javascript por mim.
 
-Estudo em lua basico para iniciantes
+## 👨‍💻・Linguagens Utilizada:
+
+・ [![Lua Badge](https://img.shields.io/badge/-Lua-000000?style=flat-square&labelColor=000000&logo=javascript&logoColor=yellow&link=https://www.javascript.com/)](https://www.javascript.com/)
